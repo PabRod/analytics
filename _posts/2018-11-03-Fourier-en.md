@@ -1,12 +1,8 @@
-Title: The spectrum of my personal accountancy
-Date: 11/28/2018, 1:54:29 PM
-Category: Blog
-Lang: en
-Tags: math, R
-Slug: spectrum-accountancy
-Authors: Pablo Rodríguez-Sánchez
-Summary: Application of Fourier analysis to a personal accountancy timeseries
-Comments: True
+---
+title: The spectrum of my personal accountancy
+date: 2018-11-28
+author: "Pablo Rodríguez-Sánchez"
+---
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
