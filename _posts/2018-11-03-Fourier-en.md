@@ -44,7 +44,7 @@ small subset of this data:
 
 When plotted, the data looks as noisy as the example on the figure below. The most noticeable regularity is the periodic increment at the end of each month, corresponding with the **pay day**... followed by a big expenditure corresponding to paying the **rent**. Notice also the higher pay in late June, corresponding to the summer extra salary that is customarily applied in several countries. The timeseries looks irregular, but there is some clear periodical component on it.
 
-![a](images/2018-11/Plot-data-1.png)
+![a](../images/2018-11/Plot-data-1.png)
 
 I know that the Fourier transform of a continuous timeseries is the perfect tool for spotting underlying periodicities. But my timeseries is uneven and discontinous. How can we fix this?
 
@@ -138,7 +138,7 @@ The (quite primitive) code I used for doing this is:
 ## Results
 After applying the two algorithms described above I find the following distribution of the relative lengths of each period:
 
-![b](images/2018-11/Frequencies-1.png)
+![b](../images/2018-11/Frequencies-1.png)
 
 Note that the strengths corresponding to periods of *30* and *31* days are higher than their neighbors, corresponding to pay-days and monthly payments. Even my very basic algorithm could see it!
 
