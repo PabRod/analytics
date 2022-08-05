@@ -1,3 +1,5 @@
 theme: minima
-author: Pablo Rodríguez-Sánchez
+author:
+  name: Pablo Rodríguez-Sánchez
+  email: "p.rodriguez-sanchez@esciencecenter.nl"
 description: Electronic billboard
