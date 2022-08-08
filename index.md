@@ -1,10 +1,10 @@
 ---
-title: Analytics SIG billboard
+title: Analytics SIG announcement board
 ---
 
 ## What is this?
 
-This is the Analytics' SIG billboard.
+This is the Analytics' SIG announcement board.
 We'll publish here our upcoming events.
 
 ## Want to keep updated?
