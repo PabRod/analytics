@@ -12,3 +12,5 @@ description: Electronic announcement board
 #
 # Syntax reference: https://kramdown.gettalong.org/syntax.html
 markdown: kramdown
+kramdown:
+    math_engine: mathjax
