@@ -17,7 +17,7 @@ tags: <(Optional) a tag or list of tags>
 <Post content in markdown>
 ```
 
-For an example, see [here](_posts/2020-10-12-complex.md).
+For an example, see [here](_posts/2020-10-12-example.md).
 
 After finishing, commit and push as usual.
 The website is rendered automatically via GitHub actions.
