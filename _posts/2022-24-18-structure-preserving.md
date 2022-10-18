@@ -1,6 +1,6 @@
 ---
 title: "Structure preserving discretisations"
-date: 2022-10-24
+date: 2022-10-18
 author: "Artur Palha"
 tags: "announcements"
 ---
@@ -10,6 +10,9 @@ tags: "announcements"
 _Structure preserving discretisations_. 
 
 A talk by [dr. Artur Palha](https://www.esciencecenter.nl/team/dr-artur-palha/).
+
+## Spacetime coordinates
+* 24 October 2022, 11:00 CEST. Location to be announced.
 
 ## Abstract
 
@@ -22,6 +25,3 @@ In this way, it is possible to exactly discretise topological equations (to be i
 For the second, the Navier-Stokes equations will be used as an example and we will show that although at the continuous level all equivalent formulations are equally good, at the discrete level, the choice of a particular formulation has a fundamental impact on the conservation properties of the discretisation.
 
 These ideas will be illustrated with the application to the solution of the Poisson equation and Navier-Stokes equations.
-
-## Spacetime coordinates
-* 24 October 2022, 11:00 CEST. Location to be announced.
