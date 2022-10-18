@@ -1,6 +1,5 @@
 ---
 title: "Structure preserving discretisations"
-date: 2022-10-24
 author: "Artur Palha"
 tags: "announcements"
 ---
