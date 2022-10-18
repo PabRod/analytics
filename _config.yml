@@ -14,3 +14,5 @@ description: Electronic announcement board
 markdown: kramdown
 kramdown:
     math_engine: katex
+
+future: true # Show posts from future dates
