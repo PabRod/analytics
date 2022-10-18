@@ -4,10 +4,6 @@ author: "Artur Palha"
 tags: "announcements"
 ---
 
-## Title
-
-_Structure preserving discretisations_. 
-
 A talk by [dr. Artur Palha](https://www.esciencecenter.nl/team/dr-artur-palha/).
 
 ## Spacetime coordinates
